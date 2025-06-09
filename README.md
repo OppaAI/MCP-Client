@@ -5,7 +5,7 @@ This is a chatbot client that interacts with a remote job search MCP (Model Cont
 ## Setup Instructions
 
 1.  **Prerequisites:**
-    *   Python 3.7+
+    *   Python 3.12+
     *   Ollama installed and running locally
     *   The `qwen3:1.7b-q8_0` model downloaded in Ollama (`ollama pull qwen3:1.7b-q8_0`)
 
