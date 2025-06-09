@@ -1,7 +1,9 @@
 # MCP-Client
 
 This is a chatbot client that interacts with a remote job search MCP (Model Context Protocol) server. It utilizes a local LLM (Language Model) running in Ollama to process user queries and communicate with the server hosted on Hugging Face Spaces. 
+
 Link🔗: https://oppaai-job-search-mcp-server.hf.space
+
 The client is designed to help users find remote jobs by querying the server with natural language.
 
 ## Setup Instructions
