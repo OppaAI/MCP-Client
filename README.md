@@ -1,5 +1,7 @@
 # MCP-Client
 
+****This repo is not maintained anymore as I will concentrate my focus on the AGi-ROS robot and AI server project.*
+
 This is a chatbot client that interacts with a remote job search MCP (Model Context Protocol) server. It utilizes a local LLM (Language Model) running in Ollama to process user queries and communicate with the server hosted on Hugging Face Spaces. 
 
 My Remote Jobs Search MCP Server Link🔗: 
